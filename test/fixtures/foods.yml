@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  kcal_per_unit: 1.5
+  type: one
+  unit: one
+
+two:
+  description: MyString
+  kcal_per_unit: 1.5
+  type: two
+  unit: two
