@@ -1,24 +1,3 @@
-# README
+An API Rest project developed to control people's diet. It was created by me and it is still in development.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Created by [Tiago Zanarde](https://tiagozanarde.dev).
